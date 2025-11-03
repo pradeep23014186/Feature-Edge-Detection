@@ -1,4 +1,4 @@
-# EDGE-DETECTION-Using-OpenCV
+# Feature-Edge-Detection-Using-OpenCV
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
@@ -25,8 +25,8 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 ## Program:
 ```
 
-Name : Krishna Prasad S
-Reg No. : 212223230108
+Name : Pradeep Kumar G
+Reg No. : 212223230150
 
 ```
 ```py
